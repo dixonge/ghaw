@@ -144,7 +144,7 @@ SectionPagesMenu = "Main"
             link = "post/"
 
             # The image to use as a background-image for the cell
-            image = "images/Glenn-Cowboy.jpg"
+            image = "images/glenn-cowboy.jpg"
 
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image
@@ -186,34 +186,34 @@ SectionPagesMenu = "Main"
 
             name = "Storm Chasing"
             link = "https://plus.google.com/b/106619188722113243020/+Stormchasercentral/posts?hl=en"
-            image = "/images/tornado.jpg"
+            image = "images/tornado.jpg"
 
         [[Params.Cells.List]]
 
             name = "Rock Climbing"
             link = "https://www.flickr.com/photos/djtrashy/sets/72157650099625115/"
-            image = "/images/rockclimbing.jpg"
+            image = "images/rockclimbing.jpg"
 
         [[Params.Cells.List]]
 
             name = "Motorcycles"
             link = "https://www.flickr.com/photos/djtrashy/sets/72157649683686778/with/15562146804/"
-            image = "/images/motorcycles.jpg"
+            image = "images/motorcycles.jpg"
 
 [[Params.Cells.List]]
 
             name = "Genealogy"
             link = "http://thedixons.net"
-            image = "/images/grandpacornall.jpg"
+            image = "images/grandpacornall.jpg"
 
 [[Params.Cells.List]]
 
             name = "Cigars and Pipes"
             link = ""
-            image = "/images/cigar.jpg"
+            image = "images/cigar.jpg"
 
 [[Params.Cells.List]]
 
             name = "Wine"
             link = ""
-            image = "/images/wine.jpg"
+            image = "images/wine.jpg"
