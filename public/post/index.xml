@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on It&#39;s All About Me</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://glennhasa.website/post/</link>
     <description>Recent content in Posts on It&#39;s All About Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Glenn Dixon</copyright>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://glennhasa.website/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cigars and Pipes</title>
-      <link>http://localhost:1313/cigars-and-pipes</link>
+      <link>http://glennhasa.website/cigars-and-pipes</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cigars-and-pipes</guid>
+      <guid>http://glennhasa.website/cigars-and-pipes</guid>
       <description>&lt;p&gt;I started with pipes, then gravitated to cigars. As it turns out, cigars are less hot and much more convenient.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Favorite Tweets</title>
-      <link>http://localhost:1313/favorite-tweets</link>
+      <link>http://glennhasa.website/favorite-tweets</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/favorite-tweets</guid>
+      <guid>http://glennhasa.website/favorite-tweets</guid>
       <description>&lt;p&gt;I just ran across a really well-worded and humorous tweet on Twitter, and my first thought was to retweet it using the new ‘quote tweet’ feature on Twitter. Unfortunately that doesn’t seem to work on mobile platforms yet, so I went to my desktop and pulled it up on Tweetdeck.Twitter.com. I started to say something like “I want to frame this tweet and hang it on my wall” but of course I have no printer and my apartment walls are concrete, so…then I thought about digitally framing it. What would that look like? Is there a service like that already out there?&lt;/p&gt;
 
 &lt;p&gt;Well, according to Google, no. So I Googled how to just simply embed Tweets and the top highlighted result was actually an internal Twitter help page. So I copied the code but still had nowhere to put it. I have long-dormant Tumblr, Storify, and RebelMouse accounts, but I can’t muster the energy to dust them off. So I thought maybe I’ll just throw it into a blog post. And then it hit me – what about a separate category and archive stream for these on my own site? Bingo.&lt;/p&gt;
@@ -40,20 +40,20 @@
     
     <item>
       <title>Genealogy</title>
-      <link>http://localhost:1313/genealogy</link>
+      <link>http://glennhasa.website/genealogy</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/genealogy</guid>
+      <guid>http://glennhasa.website/genealogy</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been the unofficial genealogist for a large branch of the &lt;a href=&#34;http://thedixons.net&#34;&gt;Quaker Dixons&lt;/a&gt; for many years now&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How My Wife Cured Her Type II Diabetes</title>
-      <link>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</link>
+      <link>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</guid>
+      <guid>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Diet is just one letter away from die.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title>How Not To Do Customer Support</title>
-      <link>http://localhost:1313/how-not-to-do-customer-support</link>
+      <link>http://glennhasa.website/how-not-to-do-customer-support</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/how-not-to-do-customer-support</guid>
+      <guid>http://glennhasa.website/how-not-to-do-customer-support</guid>
       <description>&lt;p&gt;Recently oDesk and Elance began completing their merger. The new site is called &lt;a href=&#34;http://upwork.com&#34;&gt;Upwork&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As can be expected, there are glitches and resets. The first thing that caught my attention was when my email inbox started receiving a &lt;em&gt;LOT&lt;/em&gt; more email notifications than usual. So of course I logged in to Upwork and went to the notifications page.&lt;/p&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>Kill The Music Industry</title>
-      <link>http://localhost:1313/kill-the-music-industry</link>
+      <link>http://glennhasa.website/kill-the-music-industry</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/kill-the-music-industry</guid>
+      <guid>http://glennhasa.website/kill-the-music-industry</guid>
       <description>&lt;p&gt;Last night we finally got around to watching &lt;a href=&#34;http://alexwinter.com/&#34; title=&#34;Yes, That Alex Winter - aka Bill, of Bill and Ted fame!&#34;&gt;Alex Winter&lt;/a&gt;&amp;rsquo;s documentary &lt;a href=&#34;http://downloadedthemovie.com/&#34;&gt;Downloaded&lt;/a&gt;. Once you see it, you&amp;rsquo;ll realize how ironic it is that you can actually &lt;a href=&#34;http://www.spin.com/2013/09/downloaded-napster-documentary-stream/&#34;&gt;stream the movie online&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s mainly about the history of Napster and the guys who started it, but from behind the scenes. For most of us, all we knew about the whole incident was what the music industry wanted us to know. Pirates were stealing money from artists, and they must be stopped. As is common, the truth behind the scenes is a whole lot more complicated than that.&lt;/p&gt;
@@ -168,50 +168,50 @@
     
     <item>
       <title>Motorcycles</title>
-      <link>http://localhost:1313/motorcycles</link>
+      <link>http://glennhasa.website/motorcycles</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/motorcycles</guid>
+      <guid>http://glennhasa.website/motorcycles</guid>
       <description>&lt;p&gt;In 2002 &lt;a href=&#34;https://www.flickr.com/photos/djtrashy/sets/72157649683686778/with/15562146804/&#34;&gt;we bought motorcycles&lt;/a&gt; and for a few years we rode a lot, putting 20,000 miles on our bikes in three years.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rock Climbing</title>
-      <link>http://localhost:1313/rock-climbing</link>
+      <link>http://glennhasa.website/rock-climbing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rock-climbing</guid>
+      <guid>http://glennhasa.website/rock-climbing</guid>
       <description>&lt;p&gt;We had a BLAST on rock faces &lt;a href=&#34;https://www.flickr.com/photos/djtrashy/sets/72157650099625115/&#34;&gt;all over Oklahoma and Texas&lt;/a&gt;. We&amp;rsquo;d love to get back out there, someday&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Storm Chasing</title>
-      <link>http://localhost:1313/storm-chasing</link>
+      <link>http://glennhasa.website/storm-chasing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/storm-chasing</guid>
+      <guid>http://glennhasa.website/storm-chasing</guid>
       <description>&lt;p&gt;On May 28, 1997 I read about the F5 that hit Jarrell, TX and about Lon Curtis &lt;a href=&#34;https://plus.google.com/106619188722113243020/posts/EjoRuHyHZxe&#34;&gt;&amp;lsquo;chasing&amp;rsquo;&lt;/a&gt; it. I was hooked.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Swing Dancing</title>
-      <link>http://localhost:1313/swing-dancing</link>
+      <link>http://glennhasa.website/swing-dancing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/swing-dancing</guid>
+      <guid>http://glennhasa.website/swing-dancing</guid>
       <description>&lt;p&gt;We joined the Swing Dance retro craze at the &lt;a href=&#34;https://www.facebook.com/groups/SandCastleSwing/&#34;&gt;Sand Castle&lt;/a&gt; in 1999. We still Lindy Hop every chance we get.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Legend of CoyoTejano</title>
-      <link>http://localhost:1313/the-legend-of-coyotejano</link>
+      <link>http://glennhasa.website/the-legend-of-coyotejano</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/the-legend-of-coyotejano</guid>
+      <guid>http://glennhasa.website/the-legend-of-coyotejano</guid>
       <description>&lt;p&gt;OK, let&amp;rsquo;s be honest. There isn&amp;rsquo;t much of a legend. The nickname basically came out of some friendly banter with the workers at our favorite watering hole down here in ol&amp;rsquo; Mexico. I&amp;rsquo;m a lifelong Texan (tejano in Spanish) and someone mentioned coyote and I combined them into one nonsensical word. It&amp;rsquo;s been my nickname there ever since.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m experimenting with this whole &amp;lsquo;put your blog on GitHub&amp;rsquo; thing. I&amp;rsquo;m currently using the static site generator Jekyll and the GitHub Windows client.&lt;/p&gt;
@@ -222,10 +222,10 @@
     
     <item>
       <title>The Photo Sharing Service That Killed Google and Flickr</title>
-      <link>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</link>
+      <link>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</guid>
+      <guid>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr The service I found for unlimited storage of and easiest sharing of embedded photo albums is, quite surprisingly, the service best known for ridiculous meme photos. I&amp;rsquo;m moving my &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of photos and videos there as you read this&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -256,10 +256,10 @@
     
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/travel</link>
+      <link>http://glennhasa.website/travel</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/travel</guid>
+      <guid>http://glennhasa.website/travel</guid>
       <description>&lt;p&gt;A few years ago we quit our jobs and began &lt;a href=&#34;http://vagabondians.com&#34;&gt;traveling&lt;/a&gt; as part of a mini-retirement.&lt;/p&gt;
 </description>
     </item>
