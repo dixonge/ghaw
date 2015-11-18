@@ -17,7 +17,7 @@ canonifyurls = "true"
 # not locally when run with `hugo server`; as with standard Hugo disqus,
 # you can specify disqus_identifier, disqus_title, and disqus_url in the
 # front matter of specific content.
-DisqusShortname = "glennhasawebsite"
+disqusShortname = "glennhasawebsite"
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
