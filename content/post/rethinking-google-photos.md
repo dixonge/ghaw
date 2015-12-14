@@ -1,5 +1,6 @@
 +++
 title = "Rethinking Google Photos"
+date = "2015-12-14"
 categories = [ "blog" ]
 image = "/images/Guanajuato-pano.jpg"
 +++

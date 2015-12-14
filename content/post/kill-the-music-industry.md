@@ -1,5 +1,6 @@
 +++
 title = "Kill The Music Industry"
+date = "2015-06-18"
 categories = [ "blog" ]
 image = "/images/music-teaser.jpg"
 +++

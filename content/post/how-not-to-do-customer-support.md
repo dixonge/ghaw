@@ -1,5 +1,6 @@
 +++
 title = "How Not To Do Customer Support"
+date = "2015-05-20"
 categories = [ "blog" ]
 image = "/images/support.jpg"
 +++

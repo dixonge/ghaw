@@ -1,5 +1,6 @@
 +++
 title = "How My Wife Cured Her Type II Diabetes"
+date = "2015-06-01"
 categories = [ "blog" ]
 image = "/images/glucose-tester.jpg"
 +++

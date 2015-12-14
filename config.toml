@@ -209,7 +209,7 @@ SectionPagesMenu = "Main"
 [[Params.Cells.List]]
 
             name = "Cigars and Pipes"
-            link = ""
+            link = "/cigars-and-pipes"
             image = "images/cigar.jpg"
 
 [[Params.Cells.List]]
