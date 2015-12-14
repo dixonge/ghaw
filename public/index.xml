@@ -2,43 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It&#39;s All About Me</title>
-    <link>http://glennhasa.website/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on It&#39;s All About Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Glenn Dixon</copyright>
-    <atom:link href="http://glennhasa.website/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>The Legend of CoyoTejano</title>
-      <link>http://glennhasa.website/the-legend-of-coyotejano</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://glennhasa.website/the-legend-of-coyotejano</guid>
-      <description>&lt;p&gt;OK, let&amp;rsquo;s be honest. There isn&amp;rsquo;t much of a legend. The nickname basically came out of some friendly banter with the workers at our favorite watering hole down here in ol&amp;rsquo; Mexico. I&amp;rsquo;m a lifelong Texan (tejano in Spanish) and someone mentioned coyote and I combined them into one nonsensical word. It&amp;rsquo;s been my nickname there ever since.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m experimenting with this whole &amp;lsquo;put your blog on GitHub&amp;rsquo; thing. I&amp;rsquo;m currently using the static site generator Jekyll and the GitHub Windows client.&lt;/p&gt;
-
-&lt;p&gt;So we&amp;rsquo;ll see how this goes, I guess.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cigars and Pipes</title>
-      <link>http://glennhasa.website/cigars-and-pipes</link>
+      <link>http://localhost:1313/cigars-and-pipes</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/cigars-and-pipes</guid>
+      <guid>http://localhost:1313/cigars-and-pipes</guid>
       <description>&lt;p&gt;I started with pipes, then gravitated to cigars. As it turns out, cigars are less hot and much more convenient.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How My Wife Cured Her Type II Diabetes</title>
-      <link>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</link>
+      <link>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</guid>
+      <guid>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Diet is just one letter away from die.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -100,71 +86,71 @@
     </item>
     
     <item>
-      <title>Motorcycles</title>
-      <link>http://glennhasa.website/motorcycles</link>
+      <title>Genealogy</title>
+      <link>http://localhost:1313/genealogy</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/motorcycles</guid>
+      <guid>http://localhost:1313/genealogy</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been the unofficial genealogist for a large branch of the &lt;a href=&#34;http://thedixons.net&#34;&gt;Quaker Dixons&lt;/a&gt; for many years now&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motorcycles</title>
+      <link>http://localhost:1313/motorcycles</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/motorcycles</guid>
       <description>&lt;p&gt;In 2002 &lt;a href=&#34;https://www.flickr.com/photos/djtrashy/sets/72157649683686778/with/15562146804/&#34;&gt;we bought motorcycles&lt;/a&gt; and for a few years we rode a lot, putting 20,000 miles on our bikes in three years.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rock Climbing</title>
-      <link>http://glennhasa.website/rock-climbing</link>
+      <link>http://localhost:1313/rock-climbing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/rock-climbing</guid>
+      <guid>http://localhost:1313/rock-climbing</guid>
       <description>&lt;p&gt;We had a BLAST on rock faces &lt;a href=&#34;https://www.flickr.com/photos/djtrashy/sets/72157650099625115/&#34;&gt;all over Oklahoma and Texas&lt;/a&gt;. We&amp;rsquo;d love to get back out there, someday&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Genealogy</title>
-      <link>http://glennhasa.website/genealogy</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://glennhasa.website/genealogy</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been the unofficial genealogist for a large branch of the &lt;a href=&#34;http://thedixons.net&#34;&gt;Quaker Dixons&lt;/a&gt; for many years now&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Storm Chasing</title>
-      <link>http://glennhasa.website/storm-chasing</link>
+      <link>http://localhost:1313/storm-chasing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/storm-chasing</guid>
+      <guid>http://localhost:1313/storm-chasing</guid>
       <description>&lt;p&gt;On May 28, 1997 I read about the F5 that hit Jarrell, TX and about Lon Curtis &lt;a href=&#34;https://plus.google.com/106619188722113243020/posts/EjoRuHyHZxe&#34;&gt;&amp;lsquo;chasing&amp;rsquo;&lt;/a&gt; it. I was hooked.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Swing Dancing</title>
-      <link>http://glennhasa.website/swing-dancing</link>
+      <link>http://localhost:1313/swing-dancing</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/swing-dancing</guid>
+      <guid>http://localhost:1313/swing-dancing</guid>
       <description>&lt;p&gt;We joined the Swing Dance retro craze at the &lt;a href=&#34;https://www.facebook.com/groups/SandCastleSwing/&#34;&gt;Sand Castle&lt;/a&gt; in 1999. We still Lindy Hop every chance we get.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://glennhasa.website/travel</link>
+      <link>http://localhost:1313/travel</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/travel</guid>
+      <guid>http://localhost:1313/travel</guid>
       <description>&lt;p&gt;A few years ago we quit our jobs and began &lt;a href=&#34;http://vagabondians.com&#34;&gt;traveling&lt;/a&gt; as part of a mini-retirement.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Favorite Tweets</title>
-      <link>http://glennhasa.website/favorite-tweets</link>
+      <link>http://localhost:1313/favorite-tweets</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/favorite-tweets</guid>
+      <guid>http://localhost:1313/favorite-tweets</guid>
       <description>&lt;p&gt;I just ran across a really well-worded and humorous tweet on Twitter, and my first thought was to retweet it using the new ‘quote tweet’ feature on Twitter. Unfortunately that doesn’t seem to work on mobile platforms yet, so I went to my desktop and pulled it up on Tweetdeck.Twitter.com. I started to say something like “I want to frame this tweet and hang it on my wall” but of course I have no printer and my apartment walls are concrete, so…then I thought about digitally framing it. What would that look like? Is there a service like that already out there?&lt;/p&gt;
 
 &lt;p&gt;Well, according to Google, no. So I Googled how to just simply embed Tweets and the top highlighted result was actually an internal Twitter help page. So I copied the code but still had nowhere to put it. I have long-dormant Tumblr, Storify, and RebelMouse accounts, but I can’t muster the energy to dust them off. So I thought maybe I’ll just throw it into a blog post. And then it hit me – what about a separate category and archive stream for these on my own site? Bingo.&lt;/p&gt;
@@ -180,10 +166,10 @@
     
     <item>
       <title>How Not To Do Customer Support</title>
-      <link>http://glennhasa.website/how-not-to-do-customer-support</link>
+      <link>http://localhost:1313/how-not-to-do-customer-support</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/how-not-to-do-customer-support</guid>
+      <guid>http://localhost:1313/how-not-to-do-customer-support</guid>
       <description>&lt;p&gt;Recently oDesk and Elance began completing their merger. The new site is called &lt;a href=&#34;http://upwork.com&#34;&gt;Upwork&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As can be expected, there are glitches and resets. The first thing that caught my attention was when my email inbox started receiving a &lt;em&gt;LOT&lt;/em&gt; more email notifications than usual. So of course I logged in to Upwork and went to the notifications page.&lt;/p&gt;
@@ -199,11 +185,45 @@
     </item>
     
     <item>
-      <title>Kill The Music Industry</title>
-      <link>http://glennhasa.website/kill-the-music-industry</link>
+      <title>The Photo Sharing Service That Killed Google and Flickr</title>
+      <link>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/kill-the-music-industry</guid>
+      <guid>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;tl;dr The service I found for unlimited storage of and easiest sharing of embedded photo albums is, quite surprisingly, the service best known for ridiculous meme photos. I&amp;rsquo;m moving my &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of photos and videos there as you read this&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That&amp;rsquo;s the bottom line. Now, to explain myself and how this incredible turn of events came about&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;A bit of background - Dixie and I quit our jobs and hit the road four years ago. We thought of it as a mini-retirement, but we ended up settling down in Mexico for a few years. We will begin traveling again at some point in the future, but in the meantime we&amp;rsquo;ve compiled a massive set of photos and video, from Alaska to New York City to Costa Rica. I&amp;rsquo;m pretty sure we are approaching &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of files. That&amp;rsquo;s like 500 Gigabytes. Yes, that is a ridiculous number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.meme.am/instances/500x/23774466.jpg&#34; alt=&#34;Y U Post Too Many Pictures?&#34; /&gt;
+{: .img-right } I will have things set up for Dixie to be able to finish sorting, deleting, editing and uploading all of our photos, a task we abandoned early on in our travels. It&amp;rsquo;s a lot of work, especially if your tools and storage solutions aren&amp;rsquo;t ideal. At different times we have stored photos on Google (Picasa) and Flickr and Facebook, and a few temporary uses of Photobucket. But we have &lt;em&gt;way&lt;/em&gt; too many files to simply dump on our web server where our blogs live. The cost would quickly go through the roof. The one solution we used most frequently was Flickr, usually alongside various WordPress plugins to make things easier to insert and embed. And since Flickr is now free for up to 1 Terabyte of space, it seemed like the best solution going forward.&lt;/p&gt;
+
+&lt;p&gt;A few days ago I started seeing a lot of talk about Google&amp;rsquo;s announcement at their recent I/O conference. Evidently Google Photos is now unlimited for free. I doubt we&amp;rsquo;ll ever need more than a Terabyte online, but I did a quick review and a comparison between the new Photos service and Flickr. And that&amp;rsquo;s when I hit a big snag&amp;hellip;&lt;em&gt;I couldn&amp;rsquo;t figure out how to embed a photo album from either one&lt;/em&gt;! And we&amp;rsquo;re not talking about a tech noob here - I&amp;rsquo;ve built dozens of web sites! And if it&amp;rsquo;s something &lt;em&gt;I&lt;/em&gt; find difficult, I really worry about how difficult the workflow will be for Dixie. Right now it appears to be actually &lt;em&gt;impossible&lt;/em&gt; to embed photo albums from either service, and that appears to be by design. They really want you to visit their site. You can embed slideshows, sort of, but sometimes maybe you want to stop and look at a photo without having it slide off the screen. Sometimes maybe you want to skip some photos and go to a specific one. That&amp;rsquo;s my preference, and that&amp;rsquo;s what I went looking for. And I found my solution in a very unlikely place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/vU1LEQB.jpg&#34; alt=&#34;Imgur &#39;good boy&#39; meme&#34; /&gt;
+{: .img-left } For those of you who aren&amp;rsquo;t familiar, Imgur has long been the realm of memes, the cute, crazy images with funny captions, similar to the one I used here. It was an early favorite with the kids on Reddit and Digg. I&amp;rsquo;ve used the service before, mainly as a quick way to share a screenshot, but that&amp;rsquo;s about it. So you can imagine my surprise when I discovered the following facts about Imgur:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can create a user account&lt;/li&gt;
+&lt;li&gt;You can upload &lt;em&gt;unlimited&lt;/em&gt; photos!&lt;/li&gt;
+&lt;li&gt;You can choose several different ways of embedding albums.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, I should show you an example. I haven&amp;rsquo;t uploaded anything yet, except for one album which is basically pictures of grass with some stone walls peeking through. Not particularly entertaining. So here&amp;rsquo;s a much better example of what you can do with Imgur. Enjoy!&lt;/p&gt;
+
+&lt;iframe class=&#34;imgur-album&#34; width=&#34;100%&#34; height=&#34;550&#34; frameborder=&#34;0&#34; src=&#34;//imgur.com/a/twP6C/embed?background=f2f2f2&amp;text=1a1a1a&amp;link=4e76c9&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kill The Music Industry</title>
+      <link>http://localhost:1313/kill-the-music-industry</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kill-the-music-industry</guid>
       <description>&lt;p&gt;Last night we finally got around to watching &lt;a href=&#34;http://alexwinter.com/&#34; title=&#34;Yes, That Alex Winter - aka Bill, of Bill and Ted fame!&#34;&gt;Alex Winter&lt;/a&gt;&amp;rsquo;s documentary &lt;a href=&#34;http://downloadedthemovie.com/&#34;&gt;Downloaded&lt;/a&gt;. Once you see it, you&amp;rsquo;ll realize how ironic it is that you can actually &lt;a href=&#34;http://www.spin.com/2013/09/downloaded-napster-documentary-stream/&#34;&gt;stream the movie online&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s mainly about the history of Napster and the guys who started it, but from behind the scenes. For most of us, all we knew about the whole incident was what the music industry wanted us to know. Pirates were stealing money from artists, and they must be stopped. As is common, the truth behind the scenes is a whole lot more complicated than that.&lt;/p&gt;
@@ -231,36 +251,16 @@
     </item>
     
     <item>
-      <title>The Photo Sharing Service That Killed Google and Flickr</title>
-      <link>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</link>
+      <title>The Legend of CoyoTejano</title>
+      <link>http://localhost:1313/the-legend-of-coyotejano</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;tl;dr The service I found for unlimited storage of and easiest sharing of embedded photo albums is, quite surprisingly, the service best known for ridiculous meme photos. I&amp;rsquo;m moving my &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of photos and videos there as you read this&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
+      <guid>http://localhost:1313/the-legend-of-coyotejano</guid>
+      <description>&lt;p&gt;OK, let&amp;rsquo;s be honest. There isn&amp;rsquo;t much of a legend. The nickname basically came out of some friendly banter with the workers at our favorite watering hole down here in ol&amp;rsquo; Mexico. I&amp;rsquo;m a lifelong Texan (tejano in Spanish) and someone mentioned coyote and I combined them into one nonsensical word. It&amp;rsquo;s been my nickname there ever since.&lt;/p&gt;
 
-&lt;p&gt;That&amp;rsquo;s the bottom line. Now, to explain myself and how this incredible turn of events came about&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m experimenting with this whole &amp;lsquo;put your blog on GitHub&amp;rsquo; thing. I&amp;rsquo;m currently using the static site generator Jekyll and the GitHub Windows client.&lt;/p&gt;
 
-&lt;p&gt;A bit of background - Dixie and I quit our jobs and hit the road four years ago. We thought of it as a mini-retirement, but we ended up settling down in Mexico for a few years. We will begin traveling again at some point in the future, but in the meantime we&amp;rsquo;ve compiled a massive set of photos and video, from Alaska to New York City to Costa Rica. I&amp;rsquo;m pretty sure we are approaching &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of files. That&amp;rsquo;s like 500 Gigabytes. Yes, that is a ridiculous number.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.meme.am/instances/500x/23774466.jpg&#34; alt=&#34;Y U Post Too Many Pictures?&#34; /&gt;
-{: .img-right } I will have things set up for Dixie to be able to finish sorting, deleting, editing and uploading all of our photos, a task we abandoned early on in our travels. It&amp;rsquo;s a lot of work, especially if your tools and storage solutions aren&amp;rsquo;t ideal. At different times we have stored photos on Google (Picasa) and Flickr and Facebook, and a few temporary uses of Photobucket. But we have &lt;em&gt;way&lt;/em&gt; too many files to simply dump on our web server where our blogs live. The cost would quickly go through the roof. The one solution we used most frequently was Flickr, usually alongside various WordPress plugins to make things easier to insert and embed. And since Flickr is now free for up to 1 Terabyte of space, it seemed like the best solution going forward.&lt;/p&gt;
-
-&lt;p&gt;A few days ago I started seeing a lot of talk about Google&amp;rsquo;s announcement at their recent I/O conference. Evidently Google Photos is now unlimited for free. I doubt we&amp;rsquo;ll ever need more than a Terabyte online, but I did a quick review and a comparison between the new Photos service and Flickr. And that&amp;rsquo;s when I hit a big snag&amp;hellip;&lt;em&gt;I couldn&amp;rsquo;t figure out how to embed a photo album from either one&lt;/em&gt;! And we&amp;rsquo;re not talking about a tech noob here - I&amp;rsquo;ve built dozens of web sites! And if it&amp;rsquo;s something &lt;em&gt;I&lt;/em&gt; find difficult, I really worry about how difficult the workflow will be for Dixie. Right now it appears to be actually &lt;em&gt;impossible&lt;/em&gt; to embed photo albums from either service, and that appears to be by design. They really want you to visit their site. You can embed slideshows, sort of, but sometimes maybe you want to stop and look at a photo without having it slide off the screen. Sometimes maybe you want to skip some photos and go to a specific one. That&amp;rsquo;s my preference, and that&amp;rsquo;s what I went looking for. And I found my solution in a very unlikely place.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/vU1LEQB.jpg&#34; alt=&#34;Imgur &#39;good boy&#39; meme&#34; /&gt;
-{: .img-left } For those of you who aren&amp;rsquo;t familiar, Imgur has long been the realm of memes, the cute, crazy images with funny captions, similar to the one I used here. It was an early favorite with the kids on Reddit and Digg. I&amp;rsquo;ve used the service before, mainly as a quick way to share a screenshot, but that&amp;rsquo;s about it. So you can imagine my surprise when I discovered the following facts about Imgur:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can create a user account&lt;/li&gt;
-&lt;li&gt;You can upload &lt;em&gt;unlimited&lt;/em&gt; photos!&lt;/li&gt;
-&lt;li&gt;You can choose several different ways of embedding albums.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Of course, I should show you an example. I haven&amp;rsquo;t uploaded anything yet, except for one album which is basically pictures of grass with some stone walls peeking through. Not particularly entertaining. So here&amp;rsquo;s a much better example of what you can do with Imgur. Enjoy!&lt;/p&gt;
-
-&lt;iframe class=&#34;imgur-album&#34; width=&#34;100%&#34; height=&#34;550&#34; frameborder=&#34;0&#34; src=&#34;//imgur.com/a/twP6C/embed?background=f2f2f2&amp;text=1a1a1a&amp;link=4e76c9&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;So we&amp;rsquo;ll see how this goes, I guess.&lt;/p&gt;
 </description>
     </item>
     

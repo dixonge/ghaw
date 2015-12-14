@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on It&#39;s All About Me</title>
-    <link>http://glennhasa.website/categories/blog/</link>
+    <link>http://localhost:1313/categories/blog/</link>
     <description>Recent content in Blog on It&#39;s All About Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Glenn Dixon</copyright>
-    <atom:link href="http://glennhasa.website/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Favorite Tweets</title>
-      <link>http://glennhasa.website/favorite-tweets</link>
+      <link>http://localhost:1313/favorite-tweets</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/favorite-tweets</guid>
+      <guid>http://localhost:1313/favorite-tweets</guid>
       <description>&lt;p&gt;I just ran across a really well-worded and humorous tweet on Twitter, and my first thought was to retweet it using the new ‘quote tweet’ feature on Twitter. Unfortunately that doesn’t seem to work on mobile platforms yet, so I went to my desktop and pulled it up on Tweetdeck.Twitter.com. I started to say something like “I want to frame this tweet and hang it on my wall” but of course I have no printer and my apartment walls are concrete, so…then I thought about digitally framing it. What would that look like? Is there a service like that already out there?&lt;/p&gt;
 
 &lt;p&gt;Well, according to Google, no. So I Googled how to just simply embed Tweets and the top highlighted result was actually an internal Twitter help page. So I copied the code but still had nowhere to put it. I have long-dormant Tumblr, Storify, and RebelMouse accounts, but I can’t muster the energy to dust them off. So I thought maybe I’ll just throw it into a blog post. And then it hit me – what about a separate category and archive stream for these on my own site? Bingo.&lt;/p&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>How My Wife Cured Her Type II Diabetes</title>
-      <link>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</link>
+      <link>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/how-my-wife-cured-her-type-ii-diabetes</guid>
+      <guid>http://localhost:1313/how-my-wife-cured-her-type-ii-diabetes</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Diet is just one letter away from die.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>How Not To Do Customer Support</title>
-      <link>http://glennhasa.website/how-not-to-do-customer-support</link>
+      <link>http://localhost:1313/how-not-to-do-customer-support</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/how-not-to-do-customer-support</guid>
+      <guid>http://localhost:1313/how-not-to-do-customer-support</guid>
       <description>&lt;p&gt;Recently oDesk and Elance began completing their merger. The new site is called &lt;a href=&#34;http://upwork.com&#34;&gt;Upwork&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As can be expected, there are glitches and resets. The first thing that caught my attention was when my email inbox started receiving a &lt;em&gt;LOT&lt;/em&gt; more email notifications than usual. So of course I logged in to Upwork and went to the notifications page.&lt;/p&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title>Kill The Music Industry</title>
-      <link>http://glennhasa.website/kill-the-music-industry</link>
+      <link>http://localhost:1313/kill-the-music-industry</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/kill-the-music-industry</guid>
+      <guid>http://localhost:1313/kill-the-music-industry</guid>
       <description>&lt;p&gt;Last night we finally got around to watching &lt;a href=&#34;http://alexwinter.com/&#34; title=&#34;Yes, That Alex Winter - aka Bill, of Bill and Ted fame!&#34;&gt;Alex Winter&lt;/a&gt;&amp;rsquo;s documentary &lt;a href=&#34;http://downloadedthemovie.com/&#34;&gt;Downloaded&lt;/a&gt;. Once you see it, you&amp;rsquo;ll realize how ironic it is that you can actually &lt;a href=&#34;http://www.spin.com/2013/09/downloaded-napster-documentary-stream/&#34;&gt;stream the movie online&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s mainly about the history of Napster and the guys who started it, but from behind the scenes. For most of us, all we knew about the whole incident was what the music industry wanted us to know. Pirates were stealing money from artists, and they must be stopped. As is common, the truth behind the scenes is a whole lot more complicated than that.&lt;/p&gt;
@@ -148,10 +148,10 @@
     
     <item>
       <title>The Legend of CoyoTejano</title>
-      <link>http://glennhasa.website/the-legend-of-coyotejano</link>
+      <link>http://localhost:1313/the-legend-of-coyotejano</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/the-legend-of-coyotejano</guid>
+      <guid>http://localhost:1313/the-legend-of-coyotejano</guid>
       <description>&lt;p&gt;OK, let&amp;rsquo;s be honest. There isn&amp;rsquo;t much of a legend. The nickname basically came out of some friendly banter with the workers at our favorite watering hole down here in ol&amp;rsquo; Mexico. I&amp;rsquo;m a lifelong Texan (tejano in Spanish) and someone mentioned coyote and I combined them into one nonsensical word. It&amp;rsquo;s been my nickname there ever since.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m experimenting with this whole &amp;lsquo;put your blog on GitHub&amp;rsquo; thing. I&amp;rsquo;m currently using the static site generator Jekyll and the GitHub Windows client.&lt;/p&gt;
@@ -162,10 +162,10 @@
     
     <item>
       <title>The Photo Sharing Service That Killed Google and Flickr</title>
-      <link>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</link>
+      <link>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://glennhasa.website/the-photo-sharing-service-that-killed-google-and-flickr</guid>
+      <guid>http://localhost:1313/the-photo-sharing-service-that-killed-google-and-flickr</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr The service I found for unlimited storage of and easiest sharing of embedded photo albums is, quite surprisingly, the service best known for ridiculous meme photos. I&amp;rsquo;m moving my &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; Terabyte of photos and videos there as you read this&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
